@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript,C# with Unity<br><br>📫 How to reach me damlaoksel@gmail.com<br><br>⚡ My hobbies camping, drawing, playing computer games...
+🌱 I’m currently learning JavaScript,C# with Unity<br><br>📫 How to reach me damlaaoksel@gmail.com<br><br>⚡ My hobbies camping, drawing, playing computer games...
 
 
 ## 🌐 Socials:
