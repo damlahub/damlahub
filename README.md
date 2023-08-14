@@ -16,6 +16,3 @@
 [![](https://visitcount.itsvg.in/api?id=damlahub&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-https://github.com/damlahub/damlahub/blob/output/github-contribution-grid-snake.gif
-![snake gif](https://github.com/damlahub/damlahub/blob/output/github-contribution-grid-snake.gif)
