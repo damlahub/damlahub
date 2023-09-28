@@ -1,5 +1,6 @@
-![](https://github.com/damlahub/damlahub/blob/main/mystory.jpg)
-
+<p align="center">
+  <img src="https://github.com/damlahub/damlahub/blob/main/git.gif" alt="git"/>
+</p>
 # 💫 About Me:
 🌱 I’m currently learning JavaScript<br><br>📫 How to reach me damlaaoksel@gmail.com
 
