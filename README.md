@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript<br><br>📫 How to reach me damlaaoksel@gmail.com
+🌱 I’m currently learning React.js <br><br>📫 How to reach me damlaaoksel@gmail.com
 
 
 ## 🌐 Socials:
