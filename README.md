@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/damla.zip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damla-oksel) [![Itch.io](https://img.shields.io/badge/itch.io-pink?logo=Itch.io)](https://damla.itch.io/) [![Google Play](https://img.shields.io/badge/daxeo-games-blue?logo=googleplay&logoColor=blue)](https://play.google.com/store/apps/dev?id=8568310844247681165)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damla-oksel) [![Itch.io](https://img.shields.io/badge/itch.io-pink?logo=Itch.io)](https://damla.itch.io/) [![Google Play](https://img.shields.io/badge/daxeo-games-blue?logo=googleplay&logoColor=blue)](https://play.google.com/store/apps/dev?id=8568310844247681165)
 
 
 # 💻 Tech Stack:
